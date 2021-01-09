@@ -2,7 +2,7 @@ pipeline{
     agent any
     stages{
         stage("Checkout"){
-            echo "Checkout Successful");
+            echo "Checkout Successful"
         }
 
     }
